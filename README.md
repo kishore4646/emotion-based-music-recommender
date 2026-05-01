@@ -36,8 +36,6 @@ emotion_based_music_recommender/
 ├── requirements.txt
 └── .gitignore
 
----
-
 ## 🧠 How It Works
 
 1. User enters mood text  
@@ -73,10 +71,6 @@ Algorithm: Logistic Regression / ML Pipeline
 Feature Extraction: TF-IDF
 Dataset: Custom labeled emotion dataset
 Accuracy: ~75–85% (depending on dataset)
-
-📸 Demo
-
-Add screenshots of your dashboard here
 
 🚀 Future Improvements
 🎧 AI Playlist Generator
